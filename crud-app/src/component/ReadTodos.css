@@ -1,0 +1,17 @@
+.list {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+}
+li {
+  border: 1px solid skyblue;
+  padding: 20px;
+  display: flex;
+  justify-content: flex-start;
+}
+span {
+  border: 1px solid skyblue;
+  /* padding: 20px; */
+}
